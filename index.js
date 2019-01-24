@@ -17,5 +17,6 @@ function add (a, b) {
   return a + b;
 }
 
+// test case for addition of numbers
 var expected = add(1,2);
 assert( expected === 3, 'one plus two is three');
